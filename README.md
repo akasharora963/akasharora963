@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akash Arora</h1>
 <h3 align="center">A passionate software developer from India.Love to code and design things:)</h3>
 
-- 🔭 I’m currently working on **Cropr Finance Defi Portfolio Management App**
+- 🔭 I’m currently working on **Defi Portfolio Management App**
 
 - 🌱 I’m currently learning **Docker and Rust.**
-
-- 👨‍💻 All of my projects are available at [https://akasharora.netlify.app](https://akasharora.netlify.app)
 
 - 💬 Ask me about **React, Smart Contract Development**
 
