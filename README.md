@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Arora</h1>
-<h3 align="center">A passionate software developer from India.Love to code and design things:)</h3>
+<h3 align="center">A passionate software developer from India. Love to code and design things:)</h3>
 
 - 🔭 I’m currently working on **Defi Portfolio Management App**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **akasharora963@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15CQZG2ddSa5i03MHtol2P0vk-s6Oy3_2/view?usp=sharing](https://drive.google.com/file/d/15CQZG2ddSa5i03MHtol2P0vk-s6Oy3_2/view?usp=sharing)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I am good at dancing**
 
