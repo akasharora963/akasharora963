@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Arora</h1>
 <h3 align="center">A passionate software developer from India. Love to code and design things:)</h3>
 
-- 🔭 I’m currently working on **Defi Portfolio Management App**
+- 🔭 I’m a passionate Full Stack Blockchain Developer with 3+ years of experience crafting innovative decentralized solutions. My expertise spans smart contract development, and creating seamless user experiences. Whether it's writing efficient Solidity or Rust code, optimizing liquidity routing algorithms, or integrating blockchain architecture, I thrive on solving complex problems.
 
 - 🌱 I’m currently learning **Docker and Rust.**
 
